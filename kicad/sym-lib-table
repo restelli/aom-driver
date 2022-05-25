@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "aom_simple-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/aom_simple-eagle-import.kicad_sym")(options "")(descr ""))
+)
